@@ -77,6 +77,6 @@ buscarMascotaPorNombre("Lucas");
 
 -  Bryan Villabona
     
--  [GitHub]([BryanVillabona](https://github.com/BryanVillabona))
+-  [GitHub](https://github.com/BryanVillabona)
 
 
