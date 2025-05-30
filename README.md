@@ -60,6 +60,7 @@ Los demás valores son tipo String, es decir, se debe registrar mediante comilla
 registrarDuenio("Bryan", "123", "3101234567", "bryan@mail.com");
 registrarMascota("Lucas", "Perro", 2, 8, "Sano", "123");
 buscarMascotaPorNombre("Lucas");
+```
 
 ## Imagenes
 
